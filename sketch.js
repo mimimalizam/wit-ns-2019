@@ -33,7 +33,7 @@ function draw() {
  }
  
  nacrtajScore();
-	}
+}
 
 function updatePosition(){
  positionX = positionX + speedX*speedFactor;
